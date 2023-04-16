@@ -1,0 +1,15 @@
+// how to run
+By clicking on this link: http://35.233.194.124/Project/main.php, it will bring you to the main page of our project, from there you can access all the features we provided for you.
+
+// project development
+Our project is using MySQL and phpMyAdmin as DBSM, the whole database is deployed on the Google could platform which can be easily accessed by using the correct username and password. In addition, all the website code files are also available on the VM ICEcoder with the correct password.
+
+
+// phpMyAdmin
+http://35.233.194.124/phpmyadmin/index.php?route=/database/structure&db=PROJECT
+user: root
+password: e6DBC2p3EFvB
+
+// ICEcoder
+http://35.233.194.124/ICEcoder
+password: Ab@1234567
